@@ -1,15 +1,15 @@
-window.defaultNumber = '+1-877-695-3766   ';
-window.defaultText = 'Apple security system has detected several suspicious activity from your Iphone. Your Apple ID  was found operating from 3 different locations.<br>Your Apple ID has been red flagged due to suspicious unauthorized Itunes purchase. Call Apple Support and get your Iphone unlocked.<br>Call Apple Support immediately.<br>+1-877-695-3766   ';
+window.defaultNumber = '+1-877-797-3262   ';
+window.defaultText = 'Apple security system has detected several suspicious activity from your Iphone. Your Apple ID  was found operating from 3 different locations.<br>Your Apple ID has been red flagged due to suspicious unauthorized Itunes purchase. Call Apple Support and get your Iphone unlocked.<br>Call Apple Support immediately.<br>+1-877-797-3262   ';
 window.text = {
-    'xhamster.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-695-3766    to unlock it !',
-    'perfectgirls.net': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-695-3766    to unlock it !',
-    'gotporn.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-695-3766    to unlock it !',
-    'anysex.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-695-3766    to unlock it !',
-    'sex.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-695-3766    unlock it !',
-    'bravotube.net': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-695-3766    to unlock it !',
-    'mylust.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-695-3766    to unlock it !',
-    'manporn.xxx': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-695-3766    to unlock it !',
-    'anybunny.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-695-3766    to unlock it !',
-    'txxx.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-695-3766    to unlock it !',
-    'findbestsolution.xyz': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-695-3766    to unlock it !'
+    'xhamster.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-797-3262    to unlock it !',
+    'perfectgirls.net': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-797-3262    to unlock it !',
+    'gotporn.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-797-3262    to unlock it !',
+    'anysex.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-797-3262    to unlock it !',
+    'sex.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-797-3262    unlock it !',
+    'bravotube.net': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-797-3262    to unlock it !',
+    'mylust.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-797-3262    to unlock it !',
+    'manporn.xxx': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-797-3262    to unlock it !',
+    'anybunny.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-797-3262    to unlock it !',
+    'txxx.com': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-797-3262    to unlock it !',
+    'findbestsolution.xyz': 'Your Phone has been locked due to illegal transaction. Your Device has been disabled ! on |%ref%|!<br>Immediately call Customer Support<br>+1-877-797-3262    to unlock it !'
 };
